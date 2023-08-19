@@ -1,6 +1,6 @@
 ## Hi, 我是Odin 😋
 
-- 🧑‍💻 Java程序员（底层本科在读） 
+- 🧑‍💻 Java程序员
 - 🚀 个人博客：<a target="_blank" href="https://www.yuque.com/icewater-kforv/wvupfc">静水流深</a>
 - 🔧 平时喜欢捣鼓做饭，擅长睡觉。
 - 💬 生命是有光的。在我熄灭以前，能够照亮你一点，就是我所有能做的了。

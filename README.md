@@ -1,4 +1,4 @@
-## Hi, 我是Odin 😋
+## Hi, 我是Captain 😋
 
 - 🧑‍💻 Java程序员
 - 🚀 个人博客：<a target="_blank" href="https://www.yuque.com/icewater-kforv/wvupfc">静水流深</a>
